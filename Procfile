@@ -1,1 +1,1 @@
-worker: python nike.py
+worker: python main.py
